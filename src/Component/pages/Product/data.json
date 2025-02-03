@@ -1,0 +1,232 @@
+ [
+      {
+        "id": 1,
+        "name": "Button Down Long Sleeve",
+        "brand": " Z-HuB",
+        "size": ["S", "M", "L", "XL"],
+        "price": 299,
+        "color": "White",
+        "material": "Cotton",
+        "category": "Formal",
+        "availability": true,
+        "images": 
+          "Images/s1a.jpg",
+          "subImages": [
+            "Images/s1b.jpg",
+            "Images/s1c.jpg",
+            "Images/s1d.jpg"
+          ]
+        
+      },
+      {
+        "id": 2,
+        "name": "Lymio Casual Shirt",
+        "brand": "YuA",
+        "size": ["M", "L", "XL"],
+        "price": 349,
+        "color": "Blue",
+        "material": "Denim",
+        "category": "Casual",
+        "availability": false,
+        "images": 
+          "Images/s2a.jpg",
+          "subImages": [
+            "Images/s2b.jpg",
+            "Images/s2c.jpg",
+            "Images/s2d.jpg"
+          ]
+          
+        
+      },
+      {
+        "id": 3,
+        "name": "DEELMO Men's Cotton ",
+        "brand": "Kill-X",
+        "size": ["S", "M", "L"],
+        "price": 599,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+          "Images/s3a.jpg",
+          "subImages": [
+            "Images/s3b.jpg",
+            "Images/s3c.jpg",
+            "Images/s3d.jpg"
+          ]
+        
+      },
+      {
+        "id": 4,
+        "name": "DHRUVI TRENDZ  ",
+        "brand": "Juz",
+        "size": ["S", "M", "L"],
+        "price": 299,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+        "Images/s4a.jpg",
+        "subImages": [
+          "Images/s4b.jpg",
+          "Images/s4c.jpg",
+          "Images/s4d.jpg"
+        ]
+        
+      },
+      {
+        "id": 5,
+        "name": "BULLMER Trendy",
+        "brand": "Maxi",
+        "size": ["S", "M", "L"],
+        "price": 299,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+          "Images/s5a.jpg",
+          "subImages": [
+            "Images/s5b.jpg",
+            "Images/s5c.jpg",
+            "Images/s5d.jpg"
+          ]
+        
+      },
+      {
+        "id": 6,
+        "name": "Noble Monk ",
+        "brand": "Nobz",
+        "size": ["S", "M", "L"],
+        "price": 699,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+        "Images/s6a.jpg",
+        "subImages": [
+          "Images/s6b.jpg",
+          "Images/s6c.jpg",
+          "Images/s6d.jpg"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Lymio men jackets ",
+        "brand": "Cad-A",
+        "size": ["S", "M", "L"],
+        "price": 999,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+          "Images/s7a.jpg",
+          "subImages": [
+            "Images/s7b.jpg",
+            "Images/s7c.jpg",
+            "Images/s7d.jpg"
+          ]
+        
+      },
+      {
+        "id": 8,
+        "name": "BE ACTIVE Short Kurta ",
+        "brand": "A-42",
+        "size": ["S", "M", "L"],
+        "price": 599,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+          "Images/s8a.jpg",
+          "subImages": [
+            "Images/s8b.jpg",
+            "Images/s8c.jpg",
+            "Images/s8d.jpg"
+          ]
+      },
+      {
+        "id": 9,
+        "name": "BE ACTIVE Men's Trendy ",
+        "brand": "A sty",
+        "size": ["S", "M", "L"],
+        "price": 699,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+          "Images/s9a.jpg",
+          "subImages": [
+            "Images/s9b.jpg",
+            "Images/s9c.jpg",
+            "Images/s9d.jpg"
+          ]
+        
+      },
+      {
+        "id": 10,
+        "name": "Pure Cotton Short Kurta ",
+        "brand": "Afk",
+        "size": ["S", "M", "L"],
+        "price": 499,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+          "Images/s10a.jpg",
+          "subImages": [
+            "Images/s10b.jpg",
+            "Images/s10c.jpg",
+            "Images/s10d.jpg"
+          ]
+        
+      },
+      {
+        "id":11,
+        "name": "Lymio Casual Shirt ",
+        "brand": "Nyc",
+        "size": ["S", "M", "L"],
+        "price": 499,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+          "Images/s11a.jpg",
+          "subImages": [
+            "Images/s11b.jpg",
+            "Images/s11c.jpg",
+            "Images/s11d.jpg"
+          ]
+        
+      },
+      {
+        "id": 12,
+        "name": "Pinkmint Popcorn Shirt ",
+        "brand": "D-curse",
+        "size": ["S", "M", "L"],
+        "price": 399,
+        "color": "Red and White",
+        "material": "Polyester",
+        "category": "Sportswear",
+        "availability": true,
+        "images": 
+        "Images/s12a.jpg",
+        "subImages": [
+          "Images/s12b.jpg",
+          "Images/s12c.jpg",
+          "Images/s12d.jpg"
+        ]
+        
+      }
+      
+    ]
+    
+    

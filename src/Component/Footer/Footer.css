@@ -1,0 +1,10 @@
+.foot1{
+  
+    bottom: 0px;
+    height: 10vh;
+    width:100%;
+    background-color: rgb(231, 240, 241);
+    position:absolute;
+    border: 0px;
+    text-align: center;
+}
